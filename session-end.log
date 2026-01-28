@@ -1,0 +1,30 @@
+[2026-01-27 08:30:20] Session ended: id=47f3462c-c8ae-4e03-af55-49414dbbd4c6 reason=prompt_input_exit
+[2026-01-27 08:46:30] Session ended: id=7ef7dc46-16ba-4220-9f34-0154083c561d reason=clear
+[2026-01-27 08:47:56] Session saved: /Users/eric/projects6/log-test/saved-sessions/session_20260127_084757_945d32a1-2fbf-4ce7-861f-e523c682cae5.jsonl
+[2026-01-27 08:47:56] Session ended: id=945d32a1-2fbf-4ce7-861f-e523c682cae5 reason=prompt_input_exit
+[2026-01-27 08:48:33] Session ended but transcript not found: /Users/eric/.claude/projects/-Users-eric-projects6-log-test/2c2f6d3f-908c-4b48-89c5-9e5bb5d4af3e.jsonl
+[2026-01-27 08:48:33] Session ended: id=2c2f6d3f-908c-4b48-89c5-9e5bb5d4af3e reason=clear
+[2026-01-27 09:11:44] Session saved: /Users/eric/projects6/log-test/saved-sessions/session_20260127_091144_0e434829-8404-4338-bd25-be1f4b38dbe1.jsonl
+[2026-01-27 09:11:44] Session ended: id=0e434829-8404-4338-bd25-be1f4b38dbe1 reason=prompt_input_exit
+[2026-01-27 09:19:13] Session saved: /Users/eric/projects6/log-test/saved-sessions/session_20260127_091913_bd0280c2-a6cd-4adc-901e-fb138d9c03bc.jsonl
+[2026-01-27 09:19:13] Session ended: id=bd0280c2-a6cd-4adc-901e-fb138d9c03bc reason=prompt_input_exit
+[2026-01-27 09:19:32] Session saved: /Users/eric/projects6/log-test/saved-sessions/session_20260127_091932_2aa1d85d-8b6a-4d5f-a8b7-c6bb29d15a90.jsonl
+[2026-01-27 09:19:32] Session ended: id=2aa1d85d-8b6a-4d5f-a8b7-c6bb29d15a90 reason=prompt_input_exit
+[2026-01-27 09:19:37] Session ended but transcript not found: /Users/eric/.claude/projects/-Users-eric-projects6-log-test/0ddfc28a-922f-48ca-a652-c17a4f4659f7.jsonl
+[2026-01-27 09:19:37] Session ended: id=0ddfc28a-922f-48ca-a652-c17a4f4659f7 reason=prompt_input_exit
+[2026-01-27 09:20:03] Session saved: /Users/eric/projects6/log-test/saved-sessions/session_20260127_092003_3e074bd5-8976-4422-91a6-f679bc98655d.jsonl
+[2026-01-27 09:20:03] Session ended: id=3e074bd5-8976-4422-91a6-f679bc98655d reason=prompt_input_exit
+[2026-01-27 10:23:10] Session ended but transcript not found: /Users/eric/.claude/projects/-Users-eric-projects6-log-test/e0cac85a-0211-4c43-8f80-d7827ca5bf4d.jsonl
+[2026-01-27 10:23:10] Session ended: id=e0cac85a-0211-4c43-8f80-d7827ca5bf4d reason=clear
+[2026-01-27 10:23:14] Session saved: /Users/eric/projects6/log-test/saved-sessions/session_20260127_102314_637103aa-8bbb-49e6-b9f4-932134e9be7d.jsonl
+[2026-01-27 10:23:14] Session ended: id=637103aa-8bbb-49e6-b9f4-932134e9be7d reason=prompt_input_exit
+[2026-01-27 10:40:27] Session saved: /Users/eric/projects6/log-test/saved-sessions/session_20260127_104027_77275584-9cc0-4ade-bcd6-ffb6a4b4c9ad.jsonl
+[2026-01-27 10:40:27] Session ended: id=77275584-9cc0-4ade-bcd6-ffb6a4b4c9ad reason=prompt_input_exit
+[2026-01-27 22:07:24] Session saved: /Users/eric/projects6/log-test/saved-sessions/session_20260127_220724_4bf11ac6-857b-4028-bc12-9c00d5e49121.jsonl
+[2026-01-27 22:07:24] Session ended: id=4bf11ac6-857b-4028-bc12-9c00d5e49121 reason=prompt_input_exit
+[2026-01-28 07:01:14] Session saved: /Users/eric/projects6/log-test/saved-sessions/session_20260128_070114_9d142e97-7523-4063-bcde-819d0158de76.jsonl
+[2026-01-28 07:01:14] Session ended: id=9d142e97-7523-4063-bcde-819d0158de76 reason=prompt_input_exit
+[2026-01-28 12:52:45] Session saved: /Users/eric/projects6/log-test/saved-sessions/session_20260128_125245_b32d784e-9797-4459-ae71-e0ab691bc8d9.jsonl
+[2026-01-28 12:52:45] Session ended: id=b32d784e-9797-4459-ae71-e0ab691bc8d9 reason=clear
+[2026-01-28 15:36:24] Session saved: /Users/eric/projects6/log-test/saved-sessions/session_20260128_153624_b5d76677-c65c-41ff-98e5-2750e9538d49.jsonl
+[2026-01-28 15:36:24] Session ended: id=b5d76677-c65c-41ff-98e5-2750e9538d49 reason=clear
