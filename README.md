@@ -20,57 +20,17 @@ When a Claude Code session ends, the `session-end.sh` hook:
 
 ## Installation
 
-### Option 1: User-level (Recommended)
-
-This applies the hook to **all** your Claude Code sessions across every project.
-
-1. Copy the hook script:
-
 ```bash
-mkdir -p ~/.claude/hooks
-cp .claude/hooks/session-end.sh ~/.claude/hooks/session-end.sh
-chmod +x ~/.claude/hooks/session-end.sh
+git clone <repo-url> && cd log-test
+./install.sh
 ```
 
-2. Edit (or create) `~/.claude/settings.json`:
+The install script:
 
-```json
-{
-  "hooks": {
-    "SessionEnd": [
-      {
-        "hooks": [
-          {
-            "type": "command",
-            "command": "~/.claude/hooks/session-end.sh"
-          }
-        ]
-      }
-    ]
-  }
-}
-```
-
-3. Update the `OUTPUT_DIR` inside the script to your preferred location, e.g.:
-
-```bash
-OUTPUT_DIR="$HOME/claude-session-logs/saved-sessions"
-```
-
-### Option 2: Project-level
-
-This applies the hook only when working inside a specific project.
-
-1. Copy the `.claude/` directory into your project:
-
-```bash
-cp -r .claude/ /path/to/your-project/.claude/
-chmod +x /path/to/your-project/.claude/hooks/session-end.sh
-```
-
-2. Update the `OUTPUT_DIR` inside the script to your preferred location.
-
-3. The settings file at `.claude/settings.json` is already configured and uses `$CLAUDE_PROJECT_DIR` to resolve the hook path.
+- Copies `session-end.sh` to `~/.claude/hooks/`
+- Merges the hook config into `~/.claude/settings.json` (preserving existing settings)
+- Creates `~/.claude/logs/` for transcripts and log output
+- Works on macOS, Linux, WSL, and Windows (Git Bash/MSYS2)
 
 ## Output
 
